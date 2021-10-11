@@ -15,6 +15,6 @@ Upon completeing our PyPoll_Challenge it was determined that:
 - DeGette with 272, 892 or 73.8%
 - Doane 11,606 or 3.1 %
 ## Summary
-Upon examing the data we can see that DeGette was the overall winner of the Congressional seat. Upon reviewing this source code provided in these files, and knowing that elections are held or conducted in the same manner across the country, we could use these tools to count many more elcetions. By simply downloading the data package of said election and modifying this code to match variable names such as canidate names, counties, and any other changes in cllections we would be able produce a replica of this data set but with the new election results. 
+Upon examing the data we can see that DeGette was the overall winner of the Congressional seat. Upon reviewing this source code provided in these files, and knowing that elections are held or conducted in the same manner across the country, we could use these tools to count many more elcetions. By simply downloading the data package of said election and modifying this code to match variable names such as canidate names, counties, and any other changes in election data; we would be able produce a replica of this data set but with the new election results. 
 
 
